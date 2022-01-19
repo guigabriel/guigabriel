@@ -9,6 +9,7 @@
   <h3 align="center"> Um pouco sobre mim: </h3>
 
   <img align="right" alt="GIF" src="https://media4.giphy.com/media/RlI4BfPGZMBFyh2vIj/giphy.gif" />
+  
   <br>
   <br>
   <br>
@@ -24,14 +25,10 @@
    <br>
    <br>
    <br>
-
-
   
 </div>
 
 ##
-
-
 
 <div align="center">
   <a href="https://github.com/guigabriel">
@@ -40,8 +37,7 @@
 </div>
   
 ##
-
-
+  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -51,12 +47,13 @@
   
 </div>
 
+ ##
 
 <div><br>
   
-  <h3>Onde você pode me encontrar:</h3>
+  <h3 align="center">Você pode me encontrar:</h3>
   
-  <a href="https://www.linkedin.com/in/guilhermegabriellisboadasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a align="center" href="https://www.linkedin.com/in/guilhermegabriellisboadasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/guigabriel/guigabriel/blob/output/github-contribution-grid-snake.svg)
  
