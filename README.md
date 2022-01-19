@@ -51,9 +51,9 @@
 
 <div><br>
   
-  <h3 align="center">Você pode me encontrar:</h3>
+  <h3>Você pode me encontrar:</h3>
   
-  <a align="center" href="https://www.linkedin.com/in/guilhermegabriellisboadasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a  href="https://www.linkedin.com/in/guilhermegabriellisboadasilva" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/guigabriel/guigabriel/blob/output/github-contribution-grid-snake.svg)
  
