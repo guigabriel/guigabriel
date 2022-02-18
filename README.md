@@ -15,9 +15,9 @@
   <br>
 
   <ul > 
-    <li>  🌱 Atualmente aprendendo ReactJS </li>
+    <li>  🌱 Atualmente aprendendo ReactJS & NextJS </li>
     <li>  💬 Me pergunte qualquer coisa, ficarei feliz em ajudar;</li>
-    <li>  ⚡️ Fun-Fact: Tudo é possível; </li>
+    <li>  ⚡️ Fun-Fact: Adoro jogos de RPG, jogos em 8bit e meu jogo favorito é o Terraria ; </li>
   </ul>
 
 
