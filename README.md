@@ -2,7 +2,12 @@
 
 
 <p>
-Olá, me chamo Guilherme Gabriel, estou estudando desenvolvimento web, voltado para o front end. Atualmente estou procurando uma vaga com desenvolvedor júnior para ganhar experiência na área. Eu sou uma pessoa criativa, gosto de ajudar a resolver problemas, estou cada vez mais apaixonado pelas linguagens de programação e as possibilidades de criar coisas incríveis que essas linguagens me proporcionam. Além da programação, há algumas coisas que gosto, como, por exemplo, passar algum tempo com meus amigos e ter boas conversas, conhecer novas pessoas e poder compartilhar histórias e experiências.
+Olá, seja bem-vindo(a)!
+
+
+Atualmente, sou um estudante de desenvolvimento web full-stack na Trybe. Minhas paixões são: jogar futebol, codar, ver filmes e séries.
+
+Atualmente estou focando meus estudos em ReactJS.
 </p>
 
 ##
