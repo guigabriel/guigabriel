@@ -22,7 +22,7 @@ Atualmente estou focando meus estudos em ReactJS.
   <br>
 
   <ul  > 
-    <li>  🌱  Atualmente aprendendo ReactJS & NextJS. </li>
+    <li>  🌱  Atualmente aprendendo ReactJS. </li>
     <li>  💬  Tenho curiosidade em tecnologias backend, como NodeJS, Docker, Postgres.</li>
     <li>  ⚡️  Adoro jogos de RPG, jogos em 8bit e meu jogo favorito é o Terraria.</li>
   </ul>
