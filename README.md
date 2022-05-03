@@ -23,7 +23,7 @@ No momento estou focando meus estudos em ReactJS.
         <li>  :books: Atualmente aprendendo ReactJS :atom_symbol:. </li>
         <li>  :computer:  Tenho curiosidade em tecnologias backend, como NodeJS, Docker, Postgres.</li>
         <li>  :video_game:  Adoro jogos de RPG, jogos em 8bit e meu jogo favorito é o Terraria.</li>
-        <li>  :movie_camera: Minha śerie favorita é Rick And Morty e meu filme favorito é SuperBad: É Hoje </li>
+        <li>  :movie_camera: Minha śerie favorita é Rick And Morty e meu filme favorito é SuperBad: É Hoje. </li>
         <li>  :soccer: Apaixonado por futebol, eu sou Palmeiras sim senhor!! :pig: </li>
         <li>  :beers: Bora tomar uma ?? </li>
       </ul> 
