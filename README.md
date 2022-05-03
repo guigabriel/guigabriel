@@ -39,7 +39,7 @@ No momento estou focando meus estudos em ReactJS.
 ##
 
 <div align="center">
-  <h3> Meus stats </h3>
+  <h3> Meus Status </h3>
   <a href="https://github.com/guigabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigabriel&layout=compact&langs_count=7&theme=dracula"/>
