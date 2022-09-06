@@ -1,15 +1,6 @@
 ### <h1 align="center"> Oi, eu sou o Gui </h1>
 
 
-<p>
-Olá, seja bem-vindo(a)!
-
-
-Atualmente, sou um estudante de desenvolvimento web full-stack na Trybe. Minhas paixões são: jogar futebol, codar, ver filmes e séries.
-
-No momento estou focando meus estudos em ReactJS.
-</p>
-
 ##
 
 <div>
