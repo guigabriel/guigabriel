@@ -11,12 +11,9 @@
       <br>
       <br>
       <ul  > 
-        <li>  :books: Atualmente aprendendo ReactJS :atom_symbol:. </li>
-        <li>  :computer:  Tenho curiosidade em tecnologias backend, como NodeJS, Docker, Postgres.</li>
-        <li>  :video_game:  Adoro jogos de RPG, jogos em 8bit e meu jogo favorito é o Terraria.</li>
-        <li>  :movie_camera: Minha śerie favorita é Rick And Morty e meu filme favorito é SuperBad: É Hoje. </li>
-        <li>  :soccer: Apaixonado por futebol, eu sou Palmeiras sim senhor!! :green_heart: :pig: </li>
-        <li>  :beers: Bora tomar uma ?? </li>
+        <li>  :books: Atualmente estudando na Trybe. </li>
+        <li>  :computer: Tenho curiosidade em tecnologias backend, como Golang, NodeJS, Docker, Postgres.</li>
+        <li>  :computer: Como hobbie eu gosto de explorar o universo Linux, e aprender mais sobre as usabilidades do Shell </li>   
       </ul> 
     </div>
   </div>
