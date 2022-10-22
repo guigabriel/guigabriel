@@ -26,12 +26,6 @@
 
 ##
 
-<div align="center">
-  <h3> Meus Status </h3>
-  <a href="https://github.com/guigabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigabriel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 ##
 
@@ -53,8 +47,6 @@
   
   <a  href="https://www.linkedin.com/in/guilhermegabriellisboadasilva" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <hr>
- 
-  ![Snake animation](https://github.com/guigabriel/guigabriel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
