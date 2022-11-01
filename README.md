@@ -13,5 +13,5 @@
   
 ### Você pode me encontar aqui:
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermegabriellisboadasilva/)](https://www.linkedin.com/in/guilhermegabriellisboadasilva/)
- [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)]
+ [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:guilhermel.silva@outlook.com.br)](mailto:guilhermel.silva@outlook.com.br)
  
